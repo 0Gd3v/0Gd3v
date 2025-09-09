@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**0Gd3v/0Gd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**0Gd3v/0Gd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#  I'm L0ngi3 L0ng
+## 🤠 I'm currently studying material science in HUST
+## 🙈 Very intersted in IOT projects and CTF.
+
+
+
