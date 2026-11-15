@@ -1,12 +1,13 @@
 <div align="center">
-  <img src=".github/assets/banner.jpg" alt="Profile Banner" width="100%">
+  <!-- Replace banner.png with your actual banner image filename -->
+  <img src="banner.png" alt="Profile Banner" width="100%">
+  
+  # Hi there 👋, I'm Cao Long
+  
+  *University student and researcher based in Vietnam, knee-deep in Semiconductors, IoT, and the occasional CTF.*
 </div>
 
-# Hi there 👋, I'm Cao Long
-
-I'm a university student and researcher based in Vietnam, currently knee-deep in Semiconductor, IOT and the occasional CTF.
-
-Whether I'm routing multi-layer PCBs, writing low-level firmware for microcontrollers, or fabbing MOS gas sensor, MOSFET. I love building a system from the ground up.
+---
 
 ## 🔬 What I'm Working On
 * **Embedded Hardware:** Designing and prototyping an Electronic Nose (E-Nose) gas sensor platform.
@@ -14,17 +15,25 @@ Whether I'm routing multi-layer PCBs, writing low-level firmware for microcontro
 * **Academic Research:** Investigating metal oxide semiconductor gas sensors and 2D material field-effect transistors. 
 ## 🛠️ Tech Stack & Tools
 
+---
+
 **Languages & Software Development**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
 
 **Hardware & Embedded**
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A59A76?style=for-the-badge&logo=altium&logoColor=white)
 
+---
+
 **Design, Data & OS**
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 * **Tools:** OriginPro (Data fitting/IV curves), FreeCAD, VS Code (WSL2 env)
+
+---
 
 ## 📊 GitHub Stats
 <div align="center">
