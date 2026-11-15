@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Cao Long
 
-I'm a university student and researcher based in Vietnam, currently knee-deep in Semiconductor, IOT and the occational CTF.
+I'm a university student and researcher based in Vietnam, currently knee-deep in Semiconductor, IOT and the occasional CTF.
 
 Whether I'm routing multi-layer PCBs, writing low-level firmware for microcontrollers, or fabbing MOS gas sensor, MOSFET. I love building a system from the ground up.
 
 ## 🔬 What I'm Working On
 * **Embedded Hardware:** Designing and prototyping an Electronic Nose (E-Nose) gas sensor platform.
-* **Firmware & Software:** Writing register-level C/C++ firmware for STM32 and developing desktop app for graphing data. 
+* **Firmware & Software:** Writing register-level C/C++ firmware for STM32 and developing desktop app for graphing data.
 * **Academic Research:** Investigating metal oxide semiconductor gas sensors and 2D material field-effect transistors. 
 ## 🛠️ Tech Stack & Tools
 
@@ -25,8 +25,8 @@ Whether I'm routing multi-layer PCBs, writing low-level firmware for microcontro
 ## 📊 GitHub Stats
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Gd3v/0Gd3v/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Gd3v/0Gd3v/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0Gd3v/0Gd3v/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
