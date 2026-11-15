@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=".github/assets/banner.jpg" alt="Profile Banner" width="100%">
+</div>
+
 # Hi there 👋, I'm Cao Long
 
 I'm a university student and researcher based in Vietnam, currently knee-deep in Semiconductor, IOT and the occasional CTF.
