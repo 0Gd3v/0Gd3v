@@ -1,22 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Cao Long
 
+I'm a university student and researcher based in Vietnam, currently knee-deep in Semiconductor, IOT and the occational CTF.
 
-**0Gd3v/0Gd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
+Whether I'm routing multi-layer PCBs, writing low-level firmware for microcontrollers, or fabbing MOS gas sensor, MOSFET. I love building a system from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#  I'm L0ngi3 L0ng
-## 🤠 I'm currently studying material science in HUST
-## 🙈 Very intersted in IOT projects and CTF.
+## 🔬 What I'm Working On
+* **Embedded Hardware:** Designing and prototyping an Electronic Nose (E-Nose) gas sensor platform.
+* **Firmware & Software:** Writing register-level C/C++ firmware for STM32 and developing desktop app for graphing data. 
+* **Academic Research:** Investigating metal oxide semiconductor gas sensors and 2D material field-effect transistors. 
+## 🛠️ Tech Stack & Tools
 
+**Languages & Software Development**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+**Hardware & Embedded**
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A59A76?style=for-the-badge&logo=altium&logoColor=white)
 
+**Design, Data & OS**
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+* **Tools:** OriginPro (Data fitting/IV curves), FreeCAD, VS Code (WSL2 env)
+
+## 📊 GitHub Stats
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
