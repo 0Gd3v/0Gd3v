@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Replace banner.png with your actual banner image filename -->
-  <img src="banner.png" alt="Profile Banner" width="100%">
+  <img src=".github/assets/banner.jpg" alt="Profile Banner" width="100%">
   
   # Hi there 👋, I'm Cao Long
   
